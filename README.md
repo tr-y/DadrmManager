@@ -1,0 +1,2 @@
+# DadrmManager
+resource share
